@@ -7,10 +7,16 @@ body {
     min-height: 100vh;
     font-family: 'Ms Madi', cursive;
     /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
 }
 
 h1{
     text-align: center;
+    /* position: fixed; */
+    /* display: block; */
+    /* width: 900px; */
+    /* transform: translate(); */
     /* letter-spacing: 10px; */
 }
 
