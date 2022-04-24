@@ -44,3 +44,5 @@ function setAttributes(element , attributes){
 }
 
 getApiData();
+getApiData();
+getApiData();
